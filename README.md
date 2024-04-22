@@ -10,7 +10,7 @@ struct asmInput {
 
 | Proposed Output  | Solution  | 
 | :------------ |:---------------:|
-|<img width="261" height="141" alt="Screen Shot 2024-04-21 at 7 49 48 PM" src="https://github.com/halaway/asm-display/assets/31904474/3bcfeb94-554f-4a52-88cb-b4ed2230154d"> | <img width="261" alt="Screen Shot 2024-04-21 at 8 29 26 PM" src="https://github.com/halaway/asm-display/assets/31904474/a04d6f67-b0ea-44fa-b4b1-0b067e70c419">|
+|<img width="261" alt="Screen Shot 2024-04-21 at 7 49 48 PM" src="https://github.com/halaway/asm-display/assets/31904474/3bcfeb94-554f-4a52-88cb-b4ed2230154d"> | <img width="261" alt="Screen Shot 2024-04-21 at 8 29 26 PM" src="https://github.com/halaway/asm-display/assets/31904474/a04d6f67-b0ea-44fa-b4b1-0b067e70c419">|
 
 
 
